@@ -1,0 +1,4 @@
+Hier gehören die beiden PDFs hin:
+- speisekarte.pdf
+- wochenkarte.pdf
+Die Website verlinkt fest auf /downloads/speisekarte.pdf und /downloads/wochenkarte.pdf.

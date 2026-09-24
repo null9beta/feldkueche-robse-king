@@ -1,0 +1,194 @@
+{
+  "titel": "Immer für euch da",
+  "pdf": "/downloads/speisekarte.pdf",
+  "gruppen": [
+    {
+      "titel": "Frühstück",
+      "eintraege": [
+        {
+          "name": "Halbes Brötchen",
+          "allergene": [
+            "G",
+            "E",
+            "M"
+          ],
+          "preis": 2
+        },
+        {
+          "name": "Rührei + Schinken + Brötchen",
+          "allergene": [
+            "G",
+            "E"
+          ],
+          "preis": 4.5
+        },
+        {
+          "name": "3 Spiegeleier mit Brötchen",
+          "allergene": [
+            "G",
+            "E"
+          ],
+          "preis": 4.5
+        },
+        {
+          "name": "Bauernfrühstück",
+          "allergene": [
+            "E"
+          ],
+          "preis": 7.5
+        },
+        {
+          "name": "Strammer Max",
+          "allergene": [
+            "G",
+            "M",
+            "U",
+            "E"
+          ],
+          "preis": 7.5
+        }
+      ]
+    },
+    {
+      "titel": "Wurst & Brötchen",
+      "eintraege": [
+        {
+          "name": "Bocki mit Brötchen",
+          "allergene": [
+            "G",
+            "M",
+            "C"
+          ],
+          "preis": 3
+        },
+        {
+          "name": "Ein Paar Wiener mit Brötchen",
+          "allergene": [
+            "G"
+          ],
+          "preis": 3.5
+        },
+        {
+          "name": "Knacker mit Brötchen",
+          "allergene": [
+            "G",
+            "S"
+          ],
+          "preis": 3.5
+        },
+        {
+          "name": "Big Berliner Boys",
+          "allergene": [
+            "S",
+            "E",
+            "G"
+          ],
+          "preis": 3
+        }
+      ]
+    },
+    {
+      "titel": "Warme Küche",
+      "eintraege": [
+        {
+          "name": "Pommes",
+          "allergene": [],
+          "preis": 3.5
+        },
+        {
+          "name": "Currywurst",
+          "allergene": [
+            "S",
+            "M",
+            "C"
+          ],
+          "preis": 4
+        },
+        {
+          "name": "Pommes + Currywurst",
+          "allergene": [
+            "S",
+            "M",
+            "C"
+          ],
+          "preis": 7
+        },
+        {
+          "name": "Soljanka",
+          "allergene": [
+            "S"
+          ],
+          "preis": 6
+        },
+        {
+          "name": "Bratkartoffeln + Sülze + Remoulade",
+          "allergene": [
+            "M",
+            "E",
+            "S",
+            "C"
+          ],
+          "preis": 7.9
+        },
+        {
+          "name": "Bratkartoffeln mit Hamburgerschnitzel",
+          "allergene": [
+            "S",
+            "C",
+            "E",
+            "M"
+          ],
+          "preis": 8.9
+        },
+        {
+          "name": "Bratkartoffeln mit Speck",
+          "allergene": [
+            "S",
+            "C"
+          ],
+          "preis": 4.5
+        },
+        {
+          "name": "Salate nach Angebot",
+          "allergene": [],
+          "preis": 2.5
+        }
+      ]
+    },
+    {
+      "titel": "Getränke",
+      "eintraege": [
+        {
+          "name": "Wasser",
+          "allergene": [],
+          "preis": 2
+        },
+        {
+          "name": "Softdrinks",
+          "allergene": [],
+          "preis": 2.5
+        },
+        {
+          "name": "Red Bull",
+          "allergene": [],
+          "preis": 2.5
+        },
+        {
+          "name": "Bier",
+          "allergene": [],
+          "preis": 3
+        },
+        {
+          "name": "Filterkaffee",
+          "allergene": [],
+          "preis": 2
+        },
+        {
+          "name": "Tee",
+          "allergene": [],
+          "preis": 2
+        }
+      ]
+    }
+  ]
+}
