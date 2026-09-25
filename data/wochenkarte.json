@@ -1,111 +1,234 @@
 {
-  "woche": "21.–25.09.2026",
-  "pdf": "downloads/wochenkarte.pdf",
-  "tage": [
+  "wochen": [
     {
-      "tag": "Montag",
-      "datum": "2026-09-21",
-      "haupt": {
-        "name": "Wildschweingulasch mit Kartoffeln und Rotkohl",
-        "allergene": [
-          "S",
-          "C",
-          "M",
-          "U"
-        ],
-        "preis": 10
-      },
-      "alternative": {
-        "typ": "vegan",
-        "name": "Kichererbsen-Curry mit Reis",
-        "allergene": [],
-        "preis": 8
-      }
+      "woche": "21.–25.09.2026",
+      "pdf": "downloads/wochenkarte_kw39.pdf",
+      "tage": [
+        {
+          "tag": "Montag",
+          "datum": "2026-09-21",
+          "haupt": {
+            "name": "Wildschweingulasch mit Kartoffeln und Rotkohl",
+            "allergene": [
+              "S",
+              "C",
+              "M",
+              "U"
+            ],
+            "preis": 10
+          },
+          "alternative": {
+            "typ": "vegan",
+            "name": "Kichererbsen-Curry mit Reis",
+            "allergene": [],
+            "preis": 8
+          }
+        },
+        {
+          "tag": "Dienstag",
+          "datum": "2026-09-22",
+          "haupt": {
+            "name": "Nudeln mit Jägerschnitzel",
+            "allergene": [
+              "G",
+              "S",
+              "E",
+              "M"
+            ],
+            "preis": 7.9
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Nudeln mit Tomatensoße",
+            "allergene": [
+              "M",
+              "S"
+            ],
+            "preis": 6
+          }
+        },
+        {
+          "tag": "Mittwoch",
+          "datum": "2026-09-23",
+          "haupt": {
+            "name": "Bratwurst mit Kartoffelbrei und Sauerkraut",
+            "allergene": [
+              "M"
+            ],
+            "preis": 7.9
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Spinat, Kartoffelbrei, Spiegeleier",
+            "allergene": [
+              "M",
+              "E"
+            ],
+            "preis": 7.5
+          }
+        },
+        {
+          "tag": "Donnerstag",
+          "datum": "2026-09-24",
+          "haupt": {
+            "name": "Kasslerkotelett mit Sauerkraut und Kartoffeln",
+            "allergene": [
+              "M"
+            ],
+            "preis": 8.9
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Kartoffeln mit Quark",
+            "allergene": [
+              "M"
+            ],
+            "preis": 7
+          }
+        },
+        {
+          "tag": "Freitag",
+          "datum": "2026-09-25",
+          "haupt": {
+            "name": "Rinderrouladen mit Rotkohl und Kartoffeln",
+            "allergene": [
+              "M",
+              "U"
+            ],
+            "preis": 12
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Kaiserschmarrn mit Walnüssen und Apfelmus",
+            "allergene": [
+              "N",
+              "M",
+              "E",
+              "G"
+            ],
+            "preis": 9.5
+          }
+        }
+      ],
+      "kw": 39
     },
     {
-      "tag": "Dienstag",
-      "datum": "2026-09-22",
-      "haupt": {
-        "name": "Nudeln mit Jägerschnitzel",
-        "allergene": [
-          "G",
-          "S",
-          "E",
-          "M"
-        ],
-        "preis": 7.9
-      },
-      "alternative": {
-        "typ": "vegetarisch",
-        "name": "Nudeln mit Tomatensoße",
-        "allergene": [
-          "M",
-          "S"
-        ],
-        "preis": 6
-      }
-    },
-    {
-      "tag": "Mittwoch",
-      "datum": "2026-09-23",
-      "haupt": {
-        "name": "Bratwurst mit Kartoffelbrei und Sauerkraut",
-        "allergene": [
-          "M"
-        ],
-        "preis": 7.9
-      },
-      "alternative": {
-        "typ": "vegetarisch",
-        "name": "Spinat, Kartoffelbrei, Spiegeleier",
-        "allergene": [
-          "M",
-          "E"
-        ],
-        "preis": 7.5
-      }
-    },
-    {
-      "tag": "Donnerstag",
-      "datum": "2026-09-24",
-      "haupt": {
-        "name": "Kasslerkotelett mit Sauerkraut und Kartoffeln",
-        "allergene": [
-          "M"
-        ],
-        "preis": 8.9
-      },
-      "alternative": {
-        "typ": "vegetarisch",
-        "name": "Kartoffeln mit Quark",
-        "allergene": [
-          "M"
-        ],
-        "preis": 7
-      }
-    },
-    {
-      "tag": "Freitag",
-      "datum": "2026-09-25",
-      "haupt": {
-        "name": "Rinderrouladen mit Rotkohl und Kartoffeln",
-        "allergene": [
-          "M",
-          "U"
-        ],
-        "preis": 12
-      },
-      "alternative": {
-        "typ": "vegetarisch",
-        "name": "Kaiserschmarrn mit Walnüssen und Apfelmus",
-        "allergene": [
-          "N",
-          "M",
-          "E",
-          "G"
-        ],
-        "preis": 9.5
-      }
+      "kw": 40,
+      "woche": "28.09.–02.10.2026",
+      "pdf": "downloads/wochenkarte_kw40.pdf",
+      "tage": [
+        {
+          "tag": "Montag",
+          "datum": "2026-09-28",
+          "haupt": {
+            "name": "Kasslerkamm mit Kartoffeln und Sauerkraut",
+            "allergene": [
+              "C"
+            ],
+            "preis": 8
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Pilzpfanne mit Knoblauchcreme",
+            "allergene": [
+              "B",
+              "M",
+              "S",
+              "C"
+            ],
+            "preis": 7.5
+          }
+        },
+        {
+          "tag": "Dienstag",
+          "datum": "2026-09-29",
+          "haupt": {
+            "name": "Gefüllte Paprika mit Kartoffeln",
+            "allergene": [
+              "S",
+              "C",
+              "E",
+              "M",
+              "G"
+            ],
+            "preis": 8.5
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Gefüllte Paprika mit Reis und Feta",
+            "allergene": [
+              "M"
+            ],
+            "preis": 8.5
+          }
+        },
+        {
+          "tag": "Mittwoch",
+          "datum": "2026-09-30",
+          "haupt": {
+            "name": "Erbseneintopf mit Bocki",
+            "allergene": [
+              "M",
+              "C"
+            ],
+            "preis": 8
+          },
+          "highlight": {
+            "name": "Eisbein mit Sauerkraut und Kartoffeln",
+            "allergene": [
+              "S"
+            ],
+            "preis": 10
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Erbseneintopf",
+            "allergene": [
+              "M",
+              "C"
+            ],
+            "preis": 6
+          }
+        },
+        {
+          "tag": "Donnerstag",
+          "datum": "2026-10-01",
+          "haupt": {
+            "name": "Blutwurst mit Leberwurst, Kartoffeln und Sauerkraut",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Sauerkraut mit Spätzle",
+            "allergene": [
+              "G",
+              "E",
+              "M"
+            ],
+            "preis": 7.5
+          }
+        },
+        {
+          "tag": "Freitag",
+          "datum": "2026-10-02",
+          "haupt": {
+            "name": "Kasslerpfanne mit Sauerkraut",
+            "allergene": [],
+            "preis": 8
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Fluffige Eierkuchen mit griechischem Joghurt und heißen Heidelbeeren",
+            "allergene": [
+              "G",
+              "E",
+              "M"
+            ],
+            "preis": 9.5
+          }
+        }
+      ]
     }
   ]
 }
