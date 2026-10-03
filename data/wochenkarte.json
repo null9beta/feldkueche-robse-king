@@ -229,6 +229,132 @@
           }
         }
       ]
+    },
+    {
+      "kw": 41,
+      "woche": "05.–09.10.2026",
+      "pdf": "downloads/wochenkarte_kw41.pdf",
+      "tage": [
+        {
+          "tag": "Montag",
+          "datum": "2026-10-05",
+          "haupt": {
+            "name": "Nudeln mit Tomatensoße und Jagdwurst",
+            "allergene": [
+              "M",
+              "G",
+              "E"
+            ],
+            "preis": 7.5
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Linseneintopf",
+            "allergene": [],
+            "preis": 6.5,
+            "zusatz": {
+              "name": "+ Bocki",
+              "preis": 8.5
+            }
+          }
+        },
+        {
+          "tag": "Dienstag",
+          "datum": "2026-10-06",
+          "haupt": {
+            "name": "Haxe mit bayerischem Kraut",
+            "allergene": [
+              "S",
+              "M",
+              "C",
+              "U"
+            ],
+            "preis": 10.5
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Erbseneintopf",
+            "allergene": [],
+            "preis": 6.5,
+            "zusatz": {
+              "name": "+ Bocki",
+              "preis": 8.5
+            }
+          }
+        },
+        {
+          "tag": "Mittwoch",
+          "datum": "2026-10-07",
+          "haupt": {
+            "name": "Königsberger Klopse mit Kartoffeln und Kapernsoße",
+            "allergene": [
+              "E",
+              "G",
+              "M"
+            ],
+            "preis": 8.9
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Senfeier mit Kartoffelstampf",
+            "allergene": [
+              "S",
+              "E",
+              "G",
+              "M"
+            ],
+            "preis": 8.5
+          }
+        },
+        {
+          "tag": "Donnerstag",
+          "datum": "2026-10-08",
+          "haupt": {
+            "name": "Nudeln mit Hackfleischbällchen",
+            "allergene": [
+              "E",
+              "G"
+            ],
+            "preis": 8.9
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Kartoffelsuppe",
+            "allergene": [
+              "M",
+              "C",
+              "G"
+            ],
+            "preis": 6.5,
+            "zusatz": {
+              "name": "+ Bocki",
+              "preis": 8.5
+            }
+          }
+        },
+        {
+          "tag": "Freitag",
+          "datum": "2026-10-09",
+          "haupt": {
+            "name": "Gebackener Fisch mit Kartoffelstampf und Remoulade",
+            "allergene": [
+              "G",
+              "E",
+              "M"
+            ],
+            "preis": 12
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Grießbrei mit heißen Beeren",
+            "allergene": [
+              "G",
+              "M"
+            ],
+            "preis": 8.9
+          }
+        }
+      ]
     }
   ]
 }
