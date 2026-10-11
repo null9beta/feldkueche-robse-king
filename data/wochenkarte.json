@@ -355,6 +355,157 @@
           }
         }
       ]
+    },
+    {
+      "kw": 42,
+      "woche": "12.–16.10.2026",
+      "pdf": "downloads/wochenkarte_kw42.pdf",
+      "tage": [
+        {
+          "tag": "Montag",
+          "datum": "2026-10-12",
+          "haupt": {
+            "name": "Jägerschnitzel mit Tomatensoße",
+            "allergene": [
+              "G",
+              "E",
+              "M"
+            ],
+            "preis": 7.9
+          },
+          "extra": {
+            "label": "Eintopf",
+            "name": "Grüner Bohneneintopf",
+            "allergene": [
+              "S",
+              "C"
+            ],
+            "preis": 6.5,
+            "zusatz": {
+              "name": "+ Bocki",
+              "allergene": [
+                "S",
+                "C"
+              ],
+              "preis": 8.5
+            }
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Nudeln mit Tomatensoße",
+            "allergene": [
+              "G",
+              "E"
+            ],
+            "preis": 6.5
+          }
+        },
+        {
+          "tag": "Dienstag",
+          "datum": "2026-10-13",
+          "haupt": {
+            "name": "Wurstgulasch mit Nudeln",
+            "allergene": [
+              "G",
+              "S",
+              "C",
+              "E"
+            ],
+            "preis": 7.5
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Zucchinipfanne mit Quark",
+            "allergene": [
+              "M"
+            ],
+            "preis": 7.5
+          }
+        },
+        {
+          "tag": "Mittwoch",
+          "datum": "2026-10-14",
+          "haupt": {
+            "label": "Highlight",
+            "name": "Eisbein mit Sauerkraut und Kartoffeln",
+            "allergene": [
+              "S"
+            ],
+            "preis": 10
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Kartoffelsuppe",
+            "allergene": [
+              "S",
+              "C",
+              "M"
+            ],
+            "preis": 6.5,
+            "zusatz": {
+              "name": "+ Bocki",
+              "allergene": [
+                "S",
+                "C"
+              ],
+              "preis": 8.5
+            }
+          }
+        },
+        {
+          "tag": "Donnerstag",
+          "datum": "2026-10-15",
+          "haupt": {
+            "name": "Schnitzel mit schwäbischem Kartoffelsalat",
+            "allergene": [
+              "G",
+              "E",
+              "M"
+            ],
+            "preis": 9.5
+          },
+          "extra": {
+            "label": "Eintopf",
+            "name": "Erbseneintopf",
+            "allergene": [
+              "S",
+              "C"
+            ],
+            "preis": 6.5,
+            "zusatz": {
+              "name": "+ Bocki",
+              "allergene": [
+                "S",
+                "C"
+              ],
+              "preis": 8.5
+            }
+          },
+          "alternative": null
+        },
+        {
+          "tag": "Freitag",
+          "datum": "2026-10-16",
+          "haupt": {
+            "name": "Handgewickelte Kohlrouladen mit Kartoffeln und Specksoße",
+            "allergene": [
+              "G",
+              "E",
+              "M",
+              "S"
+            ],
+            "preis": 10
+          },
+          "alternative": {
+            "typ": "vegetarisch",
+            "name": "Milchreis mit Apfelmus, Zucker und Zimt",
+            "allergene": [
+              "M"
+            ],
+            "preis": 8.5
+          }
+        }
+      ]
     }
   ]
 }
