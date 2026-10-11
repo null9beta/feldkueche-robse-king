@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://feldkueche-robseking.de/sitemap.xml
+Sitemap: https://www.feldkueche-robseking.de/sitemap.xml
