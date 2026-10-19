@@ -506,6 +506,145 @@
           }
         }
       ]
+    },
+    {
+      "woche": "19.–23.10.2026",
+      "pdf": "downloads/wochenkarte_kw43.pdf",
+      "tage": [
+        {
+          "tag": "Montag",
+          "datum": "2026-10-19",
+          "haupt": {
+            "name": "Big Berliner Boys mit Rotkohl und Kartoffeln",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Wirsingeintopf",
+              "allergene": [],
+              "preis": 6.5
+            },
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Dienstag",
+          "datum": "2026-10-20",
+          "haupt": {
+            "name": "Blutwurst mit Kartoffeln und Sauerkraut",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Mittwoch",
+          "datum": "2026-10-21",
+          "haupt": {
+            "name": "Königsberger Klopse",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Alternative",
+              "name": "Rotebeete Bowl",
+              "allergene": [],
+              "preis": 7.5
+            },
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Donnerstag",
+          "datum": "2026-10-22",
+          "haupt": {
+            "name": "Rindergulasch mit Klößen und Rotkohl",
+            "allergene": [],
+            "preis": 12
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Freitag",
+          "datum": "2026-10-23",
+          "haupt": {
+            "name": "Spaghetti Bolognese",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Alternative",
+              "name": "Grießbrei mit heißen Beeren",
+              "allergene": [],
+              "preis": 8.9
+            },
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        }
+      ]
     }
   ]
 }
