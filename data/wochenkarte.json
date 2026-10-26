@@ -645,6 +645,114 @@
           "alternative": null
         }
       ]
+    },
+    {
+      "woche": "26.–30.10.2026",
+      "pdf": "downloads/wochenkarte_kw44.pdf",
+      "tage": [
+        {
+          "tag": "Montag",
+          "datum": "2026-10-26",
+          "haupt": {
+            "name": "Jägerschnitzel mit Nudeln",
+            "allergene": [],
+            "preis": 7.9
+          },
+          "extra": [
+            {
+              "label": "Suppe",
+              "name": "Hühnersuppe",
+              "allergene": [],
+              "preis": 7
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Dienstag",
+          "datum": "2026-10-27",
+          "haupt": {
+            "name": "Schnitzel mit Letschosoße und Kartoffeln",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Suppe",
+              "name": "Hühnersuppe",
+              "allergene": [],
+              "preis": 7
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Mittwoch",
+          "datum": "2026-10-28",
+          "haupt": {
+            "name": "Eisbein mit Sauerkraut und Kartoffeln",
+            "allergene": [],
+            "preis": 10
+          },
+          "extra": [
+            {
+              "label": "Alternative",
+              "name": "Kartoffeln mit Quark",
+              "allergene": [],
+              "preis": 7.5
+            },
+            {
+              "label": "Suppe",
+              "name": "Hühnersuppe",
+              "allergene": [],
+              "preis": 7
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Donnerstag",
+          "datum": "2026-10-29",
+          "haupt": {
+            "name": "Krustenbraten mit Kartoffeln und Sauerkraut",
+            "allergene": [],
+            "preis": 9.5
+          },
+          "extra": [
+            {
+              "label": "Suppe",
+              "name": "Hühnersuppe",
+              "allergene": [],
+              "preis": 7
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Freitag",
+          "datum": "2026-10-30",
+          "haupt": {
+            "name": "Hühnerfrikassee mit Reis",
+            "allergene": [],
+            "preis": 9.5
+          },
+          "extra": [
+            {
+              "label": "Suppe",
+              "name": "Hühnersuppe",
+              "allergene": [],
+              "preis": 7
+            },
+            {
+              "label": "Alternative",
+              "name": "Kirschsuppe mit Klüten",
+              "allergene": [],
+              "preis": 8.9
+            }
+          ],
+          "alternative": null
+        }
+      ]
     }
   ]
 }
