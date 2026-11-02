@@ -753,6 +753,133 @@
           "alternative": null
         }
       ]
+    },
+    {
+      "woche": "02.–06.11.2026",
+      "pdf": "downloads/wochenkarte_kw45.pdf",
+      "tage": [
+        {
+          "tag": "Montag",
+          "datum": "2026-11-02",
+          "haupt": {
+            "name": "Krustenbraten mit Kartoffeln und Sauerkraut",
+            "allergene": [],
+            "preis": 9.5
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Linseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Dienstag",
+          "datum": "2026-11-03",
+          "haupt": {
+            "name": "Wurstgulasch mit Nudeln",
+            "allergene": [],
+            "preis": 7.5
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Linseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Mittwoch",
+          "datum": "2026-11-04",
+          "haupt": {
+            "name": "Blutwurst mit Sauerkraut und Kartoffeln",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Linseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Donnerstag",
+          "datum": "2026-11-05",
+          "haupt": {
+            "name": "Big Berliner Boy mit Letschosoße und Kartoffeln",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Linseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Freitag",
+          "datum": "2026-11-06",
+          "haupt": {
+            "name": "Wirsingroulade mit Kartoffeln",
+            "allergene": [],
+            "preis": 10
+          },
+          "extra": [
+            {
+              "label": "Alternative",
+              "name": "Birnensuppe mit Klüten",
+              "allergene": [],
+              "preis": 8.9
+            },
+            {
+              "label": "Eintopf",
+              "name": "Linseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        }
+      ]
     }
   ]
 }
