@@ -880,6 +880,139 @@
           "alternative": null
         }
       ]
+    },
+    {
+      "woche": "09.–13.11.2026",
+      "pdf": "downloads/wochenkarte_kw46.pdf",
+      "tage": [
+        {
+          "tag": "Montag",
+          "datum": "2026-11-09",
+          "haupt": {
+            "name": "Jägerschnitzel mit Nudeln",
+            "allergene": [],
+            "preis": 7.9
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Dienstag",
+          "datum": "2026-11-10",
+          "haupt": {
+            "name": "Paprikaschoten mit Kartoffeln",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Mittwoch",
+          "datum": "2026-11-11",
+          "haupt": {
+            "name": "Eisbein mit Kartoffeln und Sauerkraut",
+            "allergene": [],
+            "preis": 10
+          },
+          "extra": [
+            {
+              "label": "Alternative",
+              "name": "Kartoffeln mit Quark",
+              "allergene": [],
+              "preis": 7.5
+            },
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Donnerstag",
+          "datum": "2026-11-12",
+          "haupt": {
+            "name": "Kassler Kotlett mit Rosenkohl und Kartoffeln",
+            "allergene": [],
+            "preis": 9.5
+          },
+          "extra": [
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        },
+        {
+          "tag": "Freitag",
+          "datum": "2026-11-13",
+          "haupt": {
+            "name": "Hähnchenkeule mit Mischgemüse und Kartoffeln",
+            "allergene": [],
+            "preis": 8.9
+          },
+          "extra": [
+            {
+              "label": "Alternative",
+              "name": "Grießbrei mit heißen Beeren",
+              "allergene": [],
+              "preis": 8.9
+            },
+            {
+              "label": "Eintopf",
+              "name": "Erbseneintopf",
+              "allergene": [],
+              "preis": 6.5,
+              "zusatz": {
+                "name": "+ Bocki",
+                "allergene": [],
+                "preis": 8.5
+              }
+            }
+          ],
+          "alternative": null
+        }
+      ]
     }
   ]
 }
